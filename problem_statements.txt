@@ -1,0 +1,4 @@
+Finding the expected length of paths that include k (randomly chosen) specific positions on a grid with obstacles. There are n checkpoints on a grid, and all other points are either obstacle or passable positions. A user chooses k of the n checkpoints randomly, what is the expected length of the path he takes? 
+
+
+identify combinations of various different paths from source to target in a matrix. There will be a combinations of sources and targets. count the unique squares from them average all the counts There are two kinds of obstacles that the problem statement talks about, but the example and test data doesn't that take into consideration. 
