@@ -1,5 +1,5 @@
 from collections import defaultdict
-from typing import Dict, List, Set, Tuple
+from typing import List
 
 test_cases = [
     (([[2, 1, 5], [1, 2, 3], [2, 3, 1], [3, 4, 1]], 4, 2), 5),
